@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    /* font-family: 'Fredoka One' !important; */
+}
+
+#canvas {
+    width: 100%;
+    height: 600px;
+}
